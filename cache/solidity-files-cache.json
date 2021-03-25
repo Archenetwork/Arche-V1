@@ -1,0 +1,156 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "E:\\LocalWarehouse\\Arche-V1\\contracts\\ERC20_Gen_Lib.sol": {
+      "lastModificationDate": 1616581952209,
+      "contentHash": "84abe620a65fd88cff32348ccb12e0d9",
+      "sourceName": "contracts/ERC20_Gen_Lib.sol",
+      "solcConfig": {
+        "version": "0.6.12",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [],
+      "artifacts": [
+        "ApproveAndCallFallBack",
+        "ERC20Interface",
+        "ERC20_Gen_Lib",
+        "ERC20_Prop_Interface",
+        "OP_ERC20",
+        "Owned",
+        "SafeMath"
+      ]
+    },
+    "E:\\LocalWarehouse\\Arche-V1\\contracts\\Swap_Factory.sol": {
+      "lastModificationDate": 1616581952209,
+      "contentHash": "94d434d0bef151cecdc87e08ad45363e",
+      "sourceName": "contracts/Swap_Factory.sol",
+      "solcConfig": {
+        "version": "0.6.12",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [],
+      "artifacts": [
+        "ApproveAndCallFallBack",
+        "D_Swap",
+        "D_Swap_Factorys",
+        "D_Swap_Main",
+        "ERC20Interface",
+        "ERC20_Gen_Lib",
+        "ERC20_Prop_Interface",
+        "Owned",
+        "SafeMath",
+        "Trading_Charge"
+      ]
+    },
+    "E:\\LocalWarehouse\\Arche-V1\\contracts\\Swap_Main.sol": {
+      "lastModificationDate": 1616581952209,
+      "contentHash": "0b4601f85c367af4c1f95392ed25056b",
+      "sourceName": "contracts/Swap_Main.sol",
+      "solcConfig": {
+        "version": "0.6.12",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [],
+      "artifacts": [
+        "ApproveAndCallFallBack",
+        "D_Swap_Factory",
+        "D_Swap_Mains",
+        "ERC20Interface",
+        "ERC20_Gen_Lib",
+        "ERC20_Prop_Interface",
+        "Owned",
+        "SafeMath",
+        "Trading_Charge"
+      ]
+    },
+    "E:\\LocalWarehouse\\Arche-V1\\contracts\\TradingCharge.sol": {
+      "lastModificationDate": 1616581952210,
+      "contentHash": "5eccb619e767a894c475be9053fdf155",
+      "sourceName": "contracts/TradingCharge.sol",
+      "solcConfig": {
+        "version": "0.6.12",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [],
+      "artifacts": [
+        "Trading_Charges"
+      ]
+    }
+  }
+}

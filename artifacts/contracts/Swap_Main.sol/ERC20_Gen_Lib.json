@@ -1,0 +1,50 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "ERC20_Gen_Lib",
+  "sourceName": "contracts/Swap_Main.sol",
+  "abi": [
+    {
+      "inputs": [
+        {
+          "internalType": "address",
+          "name": "p_owner",
+          "type": "address"
+        },
+        {
+          "internalType": "uint256",
+          "name": "p_total",
+          "type": "uint256"
+        },
+        {
+          "internalType": "string",
+          "name": "p_symbol",
+          "type": "string"
+        },
+        {
+          "internalType": "string",
+          "name": "p_name",
+          "type": "string"
+        },
+        {
+          "internalType": "uint8",
+          "name": "p_decimals",
+          "type": "uint8"
+        }
+      ],
+      "name": "Create",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x",
+  "deployedBytecode": "0x",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}

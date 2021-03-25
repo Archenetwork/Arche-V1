@@ -6,5 +6,23 @@
     "ethereum-waffle": "^3.3.0",
     "ethers": "^5.0.32",
     "hardhat": "^2.1.1"
-  }
+  },
+  "name": "Arche-V1",
+  "description": "",
+  "version": "1.0.0",
+  "main": "hardhat.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Archenetwork/Arche-V1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Archenetwork/Arche-V1/issues"
+  },
+  "homepage": "https://github.com/Archenetwork/Arche-V1#readme"
 }

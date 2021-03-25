@@ -1,0 +1,45 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "D_Swap_Factory",
+  "sourceName": "contracts/Swap_Main.sol",
+  "abi": [
+    {
+      "inputs": [
+        {
+          "internalType": "address",
+          "name": "user",
+          "type": "address"
+        },
+        {
+          "internalType": "address",
+          "name": "token_head",
+          "type": "address"
+        },
+        {
+          "internalType": "address",
+          "name": "token_tail",
+          "type": "address"
+        },
+        {
+          "internalType": "uint256",
+          "name": "sys_reward",
+          "type": "uint256"
+        }
+      ],
+      "name": "Create",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "payable",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x",
+  "deployedBytecode": "0x",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
